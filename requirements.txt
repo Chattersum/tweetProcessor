@@ -3,7 +3,7 @@ MarkupSafe==0.23
 MySQL-python==1.2.3
 PAM==0.4.2
 Pillow==2.6.1
-Pygments==1.6
+Pygments==2.7.4
 Sphinx==1.2.2
 Twisted-Core==14.0.2
 Twisted-Web==14.0.2

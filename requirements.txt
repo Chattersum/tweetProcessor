@@ -40,7 +40,7 @@ roman==2.0.0
 service-identity==1.0.0
 six==1.7.3
 urllib3==1.8.3
-wheel==0.24.0
+wheel==0.38.1
 wsgiref==0.1.2
 yapf==0.1.4
 zope.interface==4.1.1
